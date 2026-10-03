@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Built locally on first ingest
+vector_data/
+
+# macOS
+.DS_Store
